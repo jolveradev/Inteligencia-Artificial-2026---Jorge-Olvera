@@ -1,6 +1,6 @@
 # Ejercicio 1 — Comparar BFS, UCS, DFS, DLS e IDS en el mapa de Rumania
 
-Contexto: Se presentan los resultados de ejecutar múltiples algoritmos de búsqueda no informada y de costo uniforme sobre el mapa de Rumania, partiendo de **Zerind** con destino a **Craiova**.
+Se presentan los resultados de ejecutar múltiples algoritmos de búsqueda no informada y de costo uniforme sobre el mapa de Rumania, partiendo de **Zerind** con destino a **Craiova**.
 
 ## Subgrafo de la Ruta Encontrada
 
